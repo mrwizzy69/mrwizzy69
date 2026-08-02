@@ -7,7 +7,7 @@ Backend Developer building with **Nuxt.js**, **TypeScript**, and **Supabase**.
 - 🌱 Also into ethical hacking: database & website penetration testing, WiFi security/cracking, server hardening, and anonymity techniques
 
 #### Connect
-[![Website](https://img.shields.io/badge/company-quantoxtinc.com-000?style=flat-square)](https://www.quantoxtinc.com)
+[![Instagram](https://img.shields.io/badge/Instagram-nw__6.9-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nw_6.9)
 
 ---
 
