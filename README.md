@@ -2,7 +2,7 @@
 
 Backend Developer building with **Nuxt.js**, **TypeScript**, and **Supabase**.
 
-- 🔭 Currently working at [Quantox Technology](https://www.quantoxtinc.com)
+- 🔭 Currently working at [Quantoxt Inc](https://www.quantoxtinc.com)
 - 🛠️ Stack: Nuxt · TypeScript · Supabase · Node.js
 - 🌱 Also into ethical hacking: database & website penetration testing, WiFi security/cracking, server hardening, and anonymity techniques
 
